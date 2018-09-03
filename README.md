@@ -9,6 +9,8 @@ So far the wrapper can call last trade data, intradaily data, and historical dat
 I have yet to add currencie exchange rates and technical indicators (will add if there is interest)
 
 How to use:
+
+Load in API key and ticker
 ```python
 AlphaVantage.api_key = 'Your Api Key'
 instance = AlphaVantage()
