@@ -27,7 +27,7 @@ INTRADAILY DATA
 ```python
 instance.today(time_interal=None, out_put_size=None, data_type=None)
 
-#time_interval default is '1min' options are by 1min, 5min, 15min, 30min, or 60min
+#time_interval default is '1min' options are by '1min', '5min', '15min', '30min', or '60min'
 #out_put_size default is 'full' options are 'full' or 'compact' last 100
 #data_type same as above
 ```
