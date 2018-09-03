@@ -16,8 +16,10 @@ instance.initiate(ticker) #example 'GOOGL'
 ```
 LAST TRADE DATA
 ```python
-instance.quote(data_type=None) #default data type is pandas however one can choose from 'list' 'json' 'csv' 'pandas'
+instance.quote(data_type=None)
 ```
+default data type is pandas however one can choose from 'list' 'json' 'csv' 'pandas'
+
 INTRADAILY DATA
 ```python
 instance.today(time_interal=None, out_put_size=None, data_type=None)
