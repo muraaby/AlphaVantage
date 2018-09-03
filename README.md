@@ -6,7 +6,7 @@ This is a python Wrapper for the Alpha Vantage api:
 
 So far the wrapper can call last trade data, intradaily data, and historical data for a ticker.
 
-I have yet to add currancies and technical indicators (will add if there is interest)
+I have yet to add currencie exchange rates and technical indicators (will add if there is interest)
 
 How to use:
 ```python
